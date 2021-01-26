@@ -1,0 +1,17 @@
+Ejecucion en paralelo
+Script para cortar la cuarta parte de los ficheros
+./Sample2.fastq
+El fichero dividido en 4 partes : ./Sample2_cut.fastq
+Script para cortar la cuarta parte de los ficheros
+./Sample1.fastq
+El fichero dividido en 4 partes : ./Sample1_cut.fastq
+Script para cortar la cuarta parte de los ficheros
+./Sample3.fastq
+El fichero dividido en 4 partes : ./Sample3_cut.fastq
+Script para cortar la cuarta parte de los ficheros
+./Sample4.fastq
+El fichero dividido en 4 partes : ./Sample4_cut.fastq
+
+real	0m0,133s
+user	0m0,128s
+sys	0m0,070s
